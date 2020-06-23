@@ -21,6 +21,7 @@
 
 ## Model Building
 First, categorical variables were converted to numerical variables by dummy encoding. Next, the data was split into train/test set with a 80/20 split.
+
 Models Used:
 - Linear Regression
 - Gradiant Boosting Regressor
