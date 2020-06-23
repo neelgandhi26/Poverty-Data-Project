@@ -1,5 +1,8 @@
 # Proverty Data Project
 
+## Objective
+- Find features that impact Poverty level for different counties
+- Predict poverty levels for counties across the United States based on given features
 ## Data Cleaning
 
 ## Exploratory Data Analysis 
@@ -17,3 +20,9 @@
 ## Model Building
 
 ## Model Performance
+### Linear Regression
+- R-Squared: 77.85%
+- Mean Absolute Error: 2.35
+### Gradiant Boosting Regressor
+- R-Squared: 81.25%
+- Mean Absoulte Error: 2.18
