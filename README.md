@@ -24,7 +24,11 @@ First, categorical variables were converted to numerical variables by dummy enco
 
 Models Used:
 - Linear Regression
-- Gradiant Boosting Regressor
+- Ridge Regression
+- Support Vector Machine
+- Decision Tree
+- Random Forest
+- Gradiant Boosting 
 ## Model Performance
 ### Linear Regression
 - R-Squared: 77.85%
