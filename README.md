@@ -41,4 +41,4 @@ Models Used:
 ### Random Forest
 - Mean Absolute Error: 2.08
 ### Gradiant Boosting Regressor
-- Mean Absoulte Error: 2.18
+- Mean Absoulte Error: 1.86
