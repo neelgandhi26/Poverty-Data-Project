@@ -31,12 +31,14 @@ Models Used:
 - Gradiant Boosting 
 ## Model Performance
 ### Linear Regression
-- R-Squared: 77.85%
 - Mean Absolute Error: 2.35
 ### Ridge Regression
+- Mean Absolute Error: 2.34
 ### Support Vector Machine
+- Mean Absolute Error: 1.78
 ### Decision Tree
+- Mean Absolute Error: 2.75
 ### Random Forest
+- Mean Absolute Error: 2.08
 ### Gradiant Boosting Regressor
-- R-Squared: 81.25%
 - Mean Absoulte Error: 2.18
