@@ -20,7 +20,7 @@
 ![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/corr_matrix.png)
 
 ## Model Building
-First, categorical variables were converted to numerical variables by dummy encoding. Next, the data was split into train/test set with a 80/20 split.
+First, categorical variables were converted to numerical variables by dummy encoding. Next, the data was split into train/test set with a 75/25 split.
 
 Models Used:
 - Linear Regression
@@ -33,6 +33,10 @@ Models Used:
 ### Linear Regression
 - R-Squared: 77.85%
 - Mean Absolute Error: 2.35
+### Ridge Regression
+### Support Vector Machine
+### Decision Tree
+### Random Forest
 ### Gradiant Boosting Regressor
 - R-Squared: 81.25%
 - Mean Absoulte Error: 2.18
