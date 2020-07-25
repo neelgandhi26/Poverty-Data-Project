@@ -11,7 +11,7 @@
 
 ![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/barplot1.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%202.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/barplot2.PNG)
 
 ![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%203.png)
 
