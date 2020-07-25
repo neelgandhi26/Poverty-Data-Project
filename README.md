@@ -9,7 +9,7 @@
 - If a variable contained more than 20% missing data, then the variable was dropped.
 ## Exploratory Data Analysis 
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%201.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/barplot1.PNG)
 
 ![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%202.png)
 
