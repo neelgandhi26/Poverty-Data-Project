@@ -15,17 +15,17 @@
 
 ![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/barplot3.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%204.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/scatterplot1.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/corr_matrix.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/scatterplot2.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%204.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/scatterplot3.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%204.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/scatterplot4.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%204.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/scatterplot5.PNG)
 
-![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/Dashboard%204.png)
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/scatterplot6.PNG)
 
 ## Model Building
 First, categorical variables were converted to numerical variables by dummy encoding. Next, the data was split into train/test set with a 75/25 split.
