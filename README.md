@@ -50,3 +50,5 @@ Models Used:
 - Mean Absolute Error: 2.08
 ### Gradiant Boosting Regressor
 - Mean Absoulte Error: 1.86
+## Feature Importance
+![alt text](https://github.com/neelgandhi26/Poverty-Data-Project/blob/master/feature_importance.PNG)
